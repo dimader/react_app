@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dimader/react_app/static/css/main.a617e044.chunk.css",
+    "main.js": "/dimader/react_app/static/js/main.cbf3ce3b.chunk.js",
+    "main.js.map": "/dimader/react_app/static/js/main.cbf3ce3b.chunk.js.map",
+    "runtime-main.js": "/dimader/react_app/static/js/runtime-main.4e94354f.js",
+    "runtime-main.js.map": "/dimader/react_app/static/js/runtime-main.4e94354f.js.map",
+    "static/js/2.fc7a9a3c.chunk.js": "/dimader/react_app/static/js/2.fc7a9a3c.chunk.js",
+    "static/js/2.fc7a9a3c.chunk.js.map": "/dimader/react_app/static/js/2.fc7a9a3c.chunk.js.map",
+    "static/js/3.6789d22b.chunk.js": "/dimader/react_app/static/js/3.6789d22b.chunk.js",
+    "static/js/3.6789d22b.chunk.js.map": "/dimader/react_app/static/js/3.6789d22b.chunk.js.map",
+    "index.html": "/dimader/react_app/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/dimader/react_app/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.fc7a9a3c.chunk.js.LICENSE.txt": "/dimader/react_app/static/js/2.fc7a9a3c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dimader/react_app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e94354f.js",
+    "static/js/2.fc7a9a3c.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.cbf3ce3b.chunk.js"
+  ]
+}
